@@ -36,7 +36,7 @@ a:focus,
 a:active {
     text-decoration: none;
     outline: none;
-    
+
 }
 
 .button,
@@ -395,6 +395,12 @@ input.form-control.sub_btn:hover {
 
 .information_box {
     padding: 80px 0;
+}
+
+input.form-control.sub_btn:hover {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
 }
 
 /*privacy-policy start*/
