@@ -183,6 +183,7 @@ a.button_main:hover {
     font-size: 18px;
     text-transform: capitalize;
 }
+
 .home_detail {
     padding: 60px 0;
 }
@@ -207,20 +208,29 @@ a.button_main:hover {
     width: 80px;
     margin-bottom: 20px;
 }
-.three_steps{
+
+.three_steps {
     padding: 60px 0;
 }
-.steps{
+
+.steps {
     text-align: center;
     padding: 40px;
     border-bottom: 1px solid black;
     box-shadow: 4px 3px 4px #dad6d6;
     border-radius: 10px;
-   
+
 }
-.steps img{
-   width: 100px;
+
+.steps img {
+    width: 100px;
 }
+
+.hotel_banner .row {
+    position: relative;
+    color: #fff;
+}
+
 /* banner styling end */
 /* play banner start */
 .play_banner {
