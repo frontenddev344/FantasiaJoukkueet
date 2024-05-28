@@ -318,6 +318,13 @@ a.button_main:hover {
     background: var(--secondary-color);
     height: 100%;
     color: #fff;
+    border-radius: 10px;
+}
+
+.details_text:hover {
+    background: transparent;
+    color: #e97949;
+    transition: 1s;
 }
 
 .detail_section ul li {
