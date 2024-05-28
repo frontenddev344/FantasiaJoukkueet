@@ -359,13 +359,15 @@ a.button_main:hover {
 }
 
 
-
 /* about styling end */
 /* info box styling */
+
 .form-control {
     padding: 10px;
     border: 1px solid #00000024;
     border-radius: unset;
+    width: 80%;
+    border-radius: 5px;
 }
 
 input.form-control.sub_btn:hover {

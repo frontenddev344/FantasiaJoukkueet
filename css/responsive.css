@@ -6,6 +6,7 @@
 
     }
 
+ 
     .open {
         display: block;
         color: #fff;
@@ -144,9 +145,15 @@
     .social_profile ul li a {
         margin: 0px 5px 0px 0;
     }
+
     h2 {
         padding-bottom: 20px;
         font-size: 28px;
+    }
+
+    .form-control {
+        width: 50%;
+
     }
 }
 
@@ -173,6 +180,10 @@
         padding: 20px 0;
     }
 
+    .form-control {
+        width: 70%;
+
+    }
 
 }
 
