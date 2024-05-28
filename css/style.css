@@ -381,6 +381,10 @@ a.button_main:hover {
     padding: 60px 0;
 }
 
+.about_text {
+    margin-bottom: 40px;
+}
+
 .about_info {
     text-align: center;
     padding: 40px;
