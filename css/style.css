@@ -220,8 +220,7 @@ a.button_main:hover {
 .steps {
     text-align: center;
     padding: 40px;
-    border-bottom: 1px solid var(--secondary-color);
-    box-shadow: 4px 3px 3px var(--secondary-color);
+    border-bottom: 3px solid var(--secondary-color);
     border-radius: 10px;
     margin-bottom: 20px;
 
