@@ -212,6 +212,7 @@ a.button_main:hover {
 
 .three_steps {
     padding: 60px 0;
+    overflow: hidden;
 }
 
 .steps {
