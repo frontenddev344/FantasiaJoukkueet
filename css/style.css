@@ -313,6 +313,10 @@ a.button_main:hover {
     padding: 60px 0;
 }
 
+.text_sports {
+    margin-bottom: 40px;
+}
+
 .details_text {
     padding: 20px;
     background: var(--secondary-color);
