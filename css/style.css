@@ -236,6 +236,13 @@ a.button_main:hover {
     background: #eaf0f7;
 }
 
+.steps.two {
+    background: #faeaeb;
+}
+
+.steps.three {
+    background: #eff5e3;
+}
 .hotel_banner .row {
     position: relative;
     color: #fff;
