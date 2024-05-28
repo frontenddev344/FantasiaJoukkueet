@@ -228,6 +228,7 @@ a.button_main:hover {
 
 .steps img {
     margin-bottom: 10px;
+    border-radius: 5px;
 }
 
 .steps.one {
