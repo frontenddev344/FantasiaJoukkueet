@@ -36,6 +36,7 @@ a:focus,
 a:active {
     text-decoration: none;
     outline: none;
+    
 }
 
 .button,
