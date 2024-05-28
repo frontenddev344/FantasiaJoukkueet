@@ -1,6 +1,4 @@
-@media screen and (max-width:1380px) {
- 
-}
+@media screen and (max-width:1380px) {}
 
 @media screen and (max-width:1200px) {
     body.toggle .navlink {
@@ -93,10 +91,12 @@
         margin-bottom: 0;
         margin-top: 20px;
     }
+
     .row.upcoming_aside {
         margin-top: 20px;
-      
+
     }
+
     .hotel_box {
         display: flex;
         flex-direction: column;
@@ -106,9 +106,10 @@
         text-align: center;
         background: #fff;
         padding: 40px;
-        margin-left: 0px; 
+        margin-left: 0px;
         text-align: left;
     }
+
     .hotel_box.reverse {
         display: flex;
         flex-direction: column;
@@ -121,39 +122,60 @@
         margin-left: 0;
         margin-right: 0px;
     }
+
     .hotel_box.reverse p {
         text-align: left;
     }
+
     .single_footer.single_footer_address {
         display: block;
     }
+
     .single_footer.single_footer_menu ul {
         display: block;
         margin-bottom: 20px;
     }
-    
-.single_footer ul li {
-    border-right: unset;
-    padding-right: unset;
+
+    .single_footer ul li {
+        border-right: unset;
+        padding-right: unset;
+    }
+
+    .social_profile ul li a {
+        margin: 0px 5px 0px 0;
+    }
+    h2 {
+        padding-bottom: 20px;
+        font-size: 28px;
+    }
 }
-.social_profile ul li a {
-    margin: 0px 5px 0px 0;
-}
-}
+
 @media (max-width: 767px) {
     .banner_box h1 {
         font-size: 32px;
     }
+
     .banner__text h1 {
         font-size: 32px;
         padding: 30px 10px;
     }
+
     .hotel_banner {
         height: 500px;
-       
+
     }
 
+    .home_detail {
+        padding: 20px 0;
+    }
+
+    .three_steps {
+        padding: 20px 0;
+    }
+
+
 }
+
 @media (max-width: 575px) {
     .box img {
         width: 90px;
@@ -162,31 +184,37 @@
     .row.upcoming_aside {
         padding-left: 20px;
         margin-left: 20px;
-      
+
     }
+
     .row.upcoming_aside h3 {
         font-size: 28px;
     }
-    .refer_inner >img {
+
+    .refer_inner>img {
         width: 100%;
     }
+
     .gallery.mb-2 {
         height: auto;
     }
+
     .simple-section {
         padding: 20px 0;
     }
+
     .inner_div {
         height: auto;
-       
+
     }
+
     .detail_section {
         padding: 20px 0;
     }
+
     .hotel_accordian {
         padding: 20px 0;
     }
 }
-@media (max-width: 575px) {
-}
 
+@media (max-width: 575px) {}

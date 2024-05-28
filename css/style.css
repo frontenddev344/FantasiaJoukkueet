@@ -351,6 +351,7 @@ a.button_main:hover {
 @keyframes fadeInRight {
     from {
         opacity: 0;
+        transform: translateX(100px);
     }
 
     to {
