@@ -42,27 +42,30 @@
     <!-- hotel banner section start -->
     <div class="hotel_banner">
         <div class="container">
-            <div class="row">
+            <div class="banner_box">
+                <div class="row">
+                    <div class="col-7">
+                        <div class="banner_box">
+                            <h1>Katso, mistä buzzista on kyse</h1>
+                        </div>
+                        <div class="form_box">
+                            <form action="#">
 
-                <div class="col-12">
-                    <div class="banner_box">
-                        <h1>Katso, mistä buzzista on kyse</h1>
+                                <div class="div  mb-4 d-flex">
+                                    <input type="text" placeholder="Matkapuhelinnumero" class="form-control">
+                                </div>
+                                <div class="div">
+                                    <input type="submit" value="Lataa sovellus" class="form-control sub_btn">
+                                </div>
+                            </form>
+                        </div>
 
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="form_box">
-                        <form action="#">
-
-                            <div class="div  mb-4 d-flex">
-                                <input type="text" placeholder="Matkapuhelinnumero" class="form-control">
-                            </div>
-                            <div class="div">
-                                <input type="submit" value="Lataa sovellus" class="form-control sub_btn">
-                            </div>
-                        </form>
+                    <div class="col-lg-5">
+                        <div class="aside-image">
+                            <img src="image/bannerasideimage.png" alt="">
+                        </div>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -217,14 +220,14 @@
                 $("body").removeClass("toggle");
             });
         });
-        
+
     </script>
     <script>
         AOS.init({
-  duration: 1200,
-})
+            duration: 1200,
+        })
     </script>
-   
+
 
 </body>
 

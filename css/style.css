@@ -241,9 +241,18 @@ a.button_main:hover {
 .steps.three {
     background: #eff5e3;
 }
+
 .hotel_banner .row {
     position: relative;
     color: #fff;
+}
+
+.banner_box .row {
+    align-items: center;
+}
+
+.form_box {
+    width: 60%;
 }
 
 /* banner styling end */
