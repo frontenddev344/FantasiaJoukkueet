@@ -229,6 +229,7 @@ a.button_main:hover {
 
 .steps img {
     width: 100px;
+    mix-blend-mode: darken;
 }
 
 .hotel_banner .row {
