@@ -193,8 +193,7 @@ a.button_main:hover {
 .home_info {
     text-align: center;
     padding: 40px;
-    border-bottom: 1px solid black;
-    background: var(--primary-color);
+    background: #fafafa;
     border-radius: 5px;
     box-shadow: 2px 3px 0px var(--secondary-color);
 }
