@@ -314,15 +314,13 @@ a.button_main:hover {
     padding: 40px;
     border-left: 1px solid black;
     background: #f7f6f6;
+    height: 100%;
 }
 
 .about_detail .row {
     justify-content: center;
 }
 
-.about_info {
-    margin-top: 20px;
-}
 
 .about_info img {
     width: 80px;
