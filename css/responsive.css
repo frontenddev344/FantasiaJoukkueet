@@ -198,6 +198,10 @@
 
     }
 
+    .banner_head:after {
+        width: 41%;
+    }
+
 }
 
 @media (max-width: 575px) {
