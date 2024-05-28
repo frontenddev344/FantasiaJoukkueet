@@ -228,8 +228,7 @@ a.button_main:hover {
 }
 
 .steps img {
-    width: 100px;
-    mix-blend-mode: darken;
+    margin-bottom: 10px;
 }
 
 .steps.one {
