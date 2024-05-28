@@ -220,6 +220,7 @@ a.button_main:hover {
     border-bottom: 1px solid black;
     box-shadow: 4px 3px 4px #dad6d6;
     border-radius: 10px;
+    margin-bottom: 20px;
 
 }
 
