@@ -317,7 +317,7 @@ a.button_main:hover {
     padding: 20px;
     background: var(--secondary-color);
     height: 100%;
-    color: white;
+    color: #fff;
 }
 
 .detail_section ul li {
