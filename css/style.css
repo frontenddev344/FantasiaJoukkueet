@@ -155,12 +155,15 @@ a.button_main:hover {
     border: 1px solid var(--primary-color);
     color: var(--primary-color);
 }
-
 .banner_head:after {
     content: '';
-    background: #fff;
-    width: 120px;
-    height: 5px;
+    background: url(../image/line.png);
+    background-position: center;
+    background-size: cover;
+    width: 17%;
+    height: 10%;
+    position: absolute;
+    top: 50%;
 }
 
 /* banner styling  start */
