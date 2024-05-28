@@ -194,8 +194,9 @@ a.button_main:hover {
     text-align: center;
     padding: 40px;
     border-bottom: 1px solid black;
-    background: #f7f6f6;
+    background: var(--primary-color);
     border-radius: 5px;
+    box-shadow: 2px 3px 0px var(--secondary-color);
 }
 
 .home_detail .row {
