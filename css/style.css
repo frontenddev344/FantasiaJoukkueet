@@ -335,6 +335,12 @@ a.button_main:hover {
     border-radius: unset;
 }
 
+input.form-control.sub_btn:hover {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
 input.form-control.sub_btn {
     width: 200px;
     padding: 10px;
