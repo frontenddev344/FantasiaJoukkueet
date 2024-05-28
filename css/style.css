@@ -156,6 +156,13 @@ a.button_main:hover {
     color: var(--primary-color);
 }
 
+.banner_head:after {
+    content: '';
+    background: #fff;
+    width: 120px;
+    height: 5px;
+}
+
 /* banner styling  start */
 .hotel_banner {
     height: 600px;
@@ -401,6 +408,7 @@ a.button_main:hover {
     width: 80px;
     margin-bottom: 20px;
 }
+
 /* 
 .in-left {
     animation: fadeInLeft 1s ease-in-out;
