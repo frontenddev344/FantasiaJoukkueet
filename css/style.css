@@ -219,7 +219,6 @@ a.button_main:hover {
 .steps {
     text-align: center;
     padding: 40px;
-    border-bottom: 3px solid var(--secondary-color);
     border-radius: 10px;
     margin-bottom: 20px;
 
@@ -232,14 +231,20 @@ a.button_main:hover {
 
 .steps.one {
     background: #eaf0f7;
+    border-bottom: 1px solid #bdc6d1;
+    box-shadow: 2px 1px 5px;
 }
 
 .steps.two {
     background: #faeaeb;
+    border-bottom: 1px solid #cfbcbd;
+    box-shadow: 2px 1px 5px;
 }
 
 .steps.three {
     background: #eff5e3;
+    border-bottom: 1px solid #cfd5c4;
+    box-shadow: 2px 1px 5px;
 }
 
 .hotel_banner .row {
@@ -253,6 +258,10 @@ a.button_main:hover {
 
 .form_box {
     width: 60%;
+}
+
+.aside-image {
+    text-align: right;
 }
 
 .aside-image img {
