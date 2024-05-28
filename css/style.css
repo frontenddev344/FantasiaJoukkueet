@@ -177,6 +177,7 @@ a.button_main:hover {
 .banner_box h1 {
     font-size: 45px;
     text-transform: uppercase;
+    margin-bottom: 20px;
 }
 
 .banner_box p {
