@@ -148,6 +148,10 @@
         font-size: 32px;
         padding: 30px 10px;
     }
+    .hotel_banner {
+        height: 500px;
+       
+    }
 
 }
 @media (max-width: 575px) {

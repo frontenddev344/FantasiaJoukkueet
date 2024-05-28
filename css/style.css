@@ -350,13 +350,14 @@ a.button_main:hover {
 @keyframes fadeInRight {
     from {
         opacity: 0;
-        transform: translateX(100px);
     }
 
     to {
         opacity: 1;
     }
 }
+
+
 
 /* about styling end */
 /* info box styling */
