@@ -232,6 +232,10 @@ a.button_main:hover {
     mix-blend-mode: darken;
 }
 
+.steps.one {
+    background: #eaf0f7;
+}
+
 .hotel_banner .row {
     position: relative;
     color: #fff;
