@@ -164,6 +164,10 @@
         width: 50%;
 
     }
+
+    .form_box {
+        width: 100%;
+    }
 }
 
 @media (max-width: 767px) {
@@ -235,6 +239,12 @@
     .hotel_accordian {
         padding: 20px 0;
     }
-}
 
-@media (max-width: 575px) {}
+    .aside-image img {
+        height: 270px;
+    }
+
+    .aside-image {
+        text-align: center;
+    }
+}

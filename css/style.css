@@ -388,7 +388,6 @@ a.button_main:hover {
 .about_info {
     text-align: center;
     padding: 40px;
-    border-left: 1px solid black;
     background: #f7f6f6;
     height: 100%;
 }
