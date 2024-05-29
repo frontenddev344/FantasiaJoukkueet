@@ -415,6 +415,46 @@ a.button_main:hover {
     width: 80px;
     margin-bottom: 20px;
 }
+
+.about_info::after {
+    left: 0;
+    right: 0;
+    content: "";
+    height: 0;
+    width: 100%;
+    background-color:var(--secondary-color);
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    border-radius: 5px;
+    -webkit-transition: all 300ms linear 0ms;
+    -khtml-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+    transform-origin: left;
+    -moz-transform-origin: left;
+    -ms-transform-origin: left;
+    -webkit-transform-origin: left;
+    -o-transform-origin: left;
+}
+
+.about_info:hover::after {
+    height: 100%;
+    left: 0;
+    right: auto;
+    transform-origin: right;
+    -moz-transform-origin: right;
+    -ms-transform-origin: right;
+    -webkit-transform-origin: right;
+    -o-transform-origin: right;
+}
+
+.about_info:hover .about_infotext {
+    color: #fff;
+}
+
 /* .about_info:hover {
     color: white;
     background: var(--secondary-color);
