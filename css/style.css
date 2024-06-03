@@ -332,16 +332,17 @@ a.button_main:hover {
 
 .details_text {
     padding: 20px;
-    background: var(--secondary-color);
+    background: var(--primary-color);
     height: 100%;
     color: #fff;
     border-radius: 10px;
+    transition: 1s;
 }
 
 .details_text:hover {
     background: transparent;
     color: #e97949;
-    transition: 1s;
+  
 }
 
 .detail_section ul li {
