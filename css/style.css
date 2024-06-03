@@ -242,6 +242,8 @@ a.button_main:hover {
 .steps img {
     margin-bottom: 10px;
     border-radius: 5px;
+    height: 270px;
+    object-fit: cover;
 }
 
 /* .steps.one {
@@ -277,6 +279,7 @@ a.button_main:hover {
 
 .aside-image {
     text-align: right;
+    display: none;
 }
 
 .aside-image img {
