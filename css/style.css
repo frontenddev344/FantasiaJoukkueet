@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 :root {
-    --primary-color: #00004D;
+    --primary-color: #00004d;
     --secondary-color: #e97949;
 }
 
@@ -280,7 +280,7 @@ a.button_main:hover {
 }
 
 .aside-image img {
-    max-width: 380px;
+    max-width: 530px;
     height: 750px;
     transition: none 0s ease 0s;
     line-height: 0px;
