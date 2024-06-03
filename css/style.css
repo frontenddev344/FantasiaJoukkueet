@@ -304,7 +304,7 @@ a.button_main:hover {
 /* play banner start */
 .play_banner {
     height: 500px;
-    background-image: url(../image/playbanner.jpg);
+    background-image: url(../image/play.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
