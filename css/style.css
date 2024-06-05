@@ -208,7 +208,7 @@ a.button_main:hover {
     padding: 40px;
     background: #fafafa;
     border-radius: 5px;
-    box-shadow: 2px 3px 0px var(--primary-color);
+    /* box-shadow: 2px 3px 0px var(--primary-color); */
 }
 
 .home_detail .row {
