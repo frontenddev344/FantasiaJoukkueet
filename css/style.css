@@ -397,6 +397,7 @@ a.button_main:hover {
 
 .about_detail {
     padding: 60px 0;
+    overflow: hidden;
 }
 
 .about_text {
