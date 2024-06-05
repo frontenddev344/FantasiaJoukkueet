@@ -156,7 +156,7 @@ a.button_main:hover {
     color: var(--primary-color);
 }
 
-.banner_head:after {
+/* .banner_head:after {
     content: '';
     background: url(../image/line.png);
     background-position: center;
@@ -165,7 +165,7 @@ a.button_main:hover {
     height: 10%;
     position: absolute;
     top: 50%;
-}
+} */
 
 /* banner styling  start */
 .hotel_banner {
