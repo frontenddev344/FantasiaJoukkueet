@@ -544,7 +544,7 @@ input.form-control.sub_btn:hover {
 /*privacy-policy start*/
 .privacy__section {
     position: relative;
-    height: 400px;
+    height: 350px;
     background-image: url(../image/privacybanner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
