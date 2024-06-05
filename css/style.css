@@ -3,7 +3,7 @@
 
 :root {
     --primary-color: #00004d;
-    --secondary-color: #e97949;
+    --secondary-color: #C96E88;
 }
 
 * {
@@ -335,9 +335,11 @@ a.button_main:hover {
 
 .details_text {
     padding: 20px;
-    background: var(--primary-color);
+    background: #fff;
     height: 100%;
-    color: #fff;
+    color: var(--secondary-color);
+    border: 2px solid var(--secondary-color);
+    box-shadow: 1px 2px 3px;
     border-radius: 10px;
     transition: 1s;
 }
@@ -345,7 +347,7 @@ a.button_main:hover {
 .details_text:hover {
     background: transparent;
     color: #e97949;
-  
+
 }
 
 .detail_section ul li {
@@ -426,7 +428,7 @@ a.button_main:hover {
     content: "";
     height: 0;
     width: 100%;
-    background-color:var(--secondary-color);
+    background-color: var(--secondary-color);
     position: absolute;
     top: 0;
     z-index: -1;
