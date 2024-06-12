@@ -1,6 +1,4 @@
-@media screen and (max-width:1380px) {}
-
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1921px) {
     body.toggle .navlink {
         transform: translateX(0);
 
@@ -9,7 +7,7 @@
 
     .open {
         display: block;
-        color: var(--primary-color);
+        color: #000;
         font-size: 30px;
     }
 
@@ -69,6 +67,10 @@
     .navlink ul li {
         padding: 10px;
     }
+}
+
+@media screen and (max-width:1200px) {
+    
 
     .box1 h2 {
         margin-top: 10px;
